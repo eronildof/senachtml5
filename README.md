@@ -5,3 +5,4 @@
 #diario de bordo
 parei na pagina 12
 parei na pagina 65
+pagina 94 definindo legenda
