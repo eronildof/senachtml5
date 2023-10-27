@@ -6,3 +6,4 @@
 parei na pagina 12
 parei na pagina 65
 pagina 94 definindo legenda
+foi criado caixsa de seleções e feito os esxercicios 1 e 2
