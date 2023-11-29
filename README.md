@@ -14,4 +14,10 @@ distancia entre linhas e alinhamento
 cor da regua
 familia de fontes
 estilo de fundo (incorporado ou interno) 
-bordas
+ 
+ DIA 28/11 
+ Aprendemos a como colocar margens nos itens do site com tag: margem:
+ que seleciona as margem fora do item.
+ e a tag: padding: que coloca a margem de fora pra dentro do meu item.
+ lista de definição
+ Contadores: que adiciona novos intens e funções e estilos  a minha lista.
