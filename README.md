@@ -21,3 +21,13 @@ estilo de fundo (incorporado ou interno)
  e a tag: padding: que coloca a margem de fora pra dentro do meu item.
  lista de definição
  Contadores: que adiciona novos intens e funções e estilos  a minha lista.
+
+ dia 29/11
+
+ Aprendemos a adicionar os elementos <header>
+ Aprendemos a adicionar os elementos <nav>
+ Aprendemos a adicionar os elementos <section>
+ Aprendemos a adicionar os elementos <article>
+ Aprendemos a adicionar os elementos <aside>
+ Aprendemos a adicionar os elementos <footer>
+ Aprendemos a adicionar os elementos <main>
