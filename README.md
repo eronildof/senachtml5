@@ -36,3 +36,4 @@ estilo de fundo (incorporado ou interno)
 
  Aprendemos sobre os diferentes tipos de seletores, a como deixar a tabela mais chamativa colocando cores molduras e bordas utilizando o css.
  Dar estilo a elementos de formulario como imagem de fundo, cor  bordas, botões.
+ Dar continuidade na pagina 213.
