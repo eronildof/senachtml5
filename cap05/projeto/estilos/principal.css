@@ -8,6 +8,11 @@ padding-bottom: 7px;
 
 h2 {
     font-size: 1.75em; /* 28/16=1.75 */
+    background: #C0262C url(../multimidia/back-bolinha.gif) repeat top center;
+    color: #fff;
+    letter-spacing: .1em;
+    padding: 7px;
+    width: 316px;
 }
 
 p { 	
@@ -30,3 +35,114 @@ border-color: #C0262C;
 body { 	
 font-family: Helvetica, Arial, sans-serif; 
 }
+
+/*página produtos - tabela */
+ #produtos table {
+    width: 600px;
+    margin: 50px auto 30px;
+    text-align: center;
+    border-collapse: collapse;
+}
+#produtos th, #produtos td{
+    border:#999 solid 1px;
+    padding: 5px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+tr{
+    border-top: solid 3px #777;
+    border-bottom: solid 3px #777;
+}
+
+th td{
+    padding: 7px;
+    background-color: #ccc;
+}
+
+tr :hover{
+    background-color: #d8a908;
+    font-weight: bold;
+    font-style: italic;
+} 
+
+#produtos caption{
+    background-color: #999;
+    color: #fff;
+    padding: 15px 0;
+    font-size: 1.5em;
+}
+
+#produtos td[colpsan] {
+    font-style: italic;
+    font-weight: bold;
+    color: #999;
+}
+
+#produtos tr:hover {
+    background-color: #feff76;
+}
+
+/* página boletim - formulário */
+form{
+    background-color: #999;
+    margin: 30px;
+    padding: 20px;
+    border-radius: 0 15px;
+}
+
+label{
+    display: block;
+    margin-top: 7px;
+    float: left;
+    width: 60px;
+}
+
+input #nome, input #email{
+    background-color: transparent;
+    border: none;
+    border-bottom: #000 solid 1px;
+    font-size: 1.2em;
+    color: #fff;
+    width: 800px;
+}
+
+::-webkit-input-placeholder{
+    /* chrome/safari/opera */
+    color: #ddd;
+    font-style: italic;
+    font-size: 0.8em;
+}
+
+::-moz-placeholder{
+    /*Firefox*/
+    color: #ddd;
+    font-style: italic;
+    font-size: 0.8em;
+}
+
+:-ms-input-placeholder{
+    /* IE */
+    color: #ddd;
+    font-style: italic;
+    font-size: 0.8em;
+}
+input[type="submit"]{
+    background-color: #C0262C;
+    background: linear-gradient(to bottom, #6b1516 0%, #C0262C 30%, #C0262C 70%, #6b1516 100%);
+    border: none;
+    border-radius: 30px;
+    font-size: 1.2em;
+    color: #fff;
+    padding: 10px 30px;
+    margin: 20px 0;
+    text-shadow: 20px 2px 5px #000;
+    cursor: pointer;
+}
+
+    
+
+
+
