@@ -31,3 +31,8 @@ estilo de fundo (incorporado ou interno)
  Aprendemos a adicionar os elementos <aside>
  Aprendemos a adicionar os elementos <footer>
  Aprendemos a adicionar os elementos <main>
+
+ dia 04/12
+
+ Aprendemos sobre os diferentes tipos de seletores, a como deixar a tabela mais chamativa colocando cores molduras e bordas utilizando o css.
+ Dar estilo a elementos de formulario como imagem de fundo, cor  bordas, botões.
