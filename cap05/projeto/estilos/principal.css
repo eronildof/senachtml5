@@ -142,6 +142,75 @@ input[type="submit"]{
     cursor: pointer;
 }
 
+/*página banho e tosa - formulário */
+#banhoEtosa fieldset{
+    background-color: #fff;
+    border: none;
+    border-radius: 0 15px;
+    margin-bottom: 20px;
+}
+
+#banhoEtosa fieldset legend{
+    background-color: #C0262C;
+    color: #fff;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+    padding: 10px;
+    margin-left: -13px;
+}
+
+#banhoEtosa fieldset label{
+    display: block;
+    margin-top: 7px;
+    float: left;
+    width: 115px;
+}
+
+#banhoEtosa fieldset input[type="text"],
+#banhoEtosa fieldset input[type="email"] {
+    border: none;
+    border-bottom: #000 solid 1px;
+    color: #000;
+    width: 770px;
+}
+
+#banhoEtosa fieldset textarea{
+    width: 770px;
+    height: 100px;
+    font-size: 1.2em;
+    border: #000 solid 1px;
+}
+
+#banhoEtosa fieldset .labelSimples{
+    display: inline;
+    float: none;
+}
+
+#banhoEtosa p{
+    text-align: left;
+}
+
+#banhoEtosa p::first-line{
+    font-size: inherit;
+    font-variant: inherit;
+    font-weight: inherit;
+    font-style: inherit;
+}
+
+#banhoEtosa main h2{
+    background-color: #fef84f url(../multimidia/postit.jpg) no-repeat top left;
+    color: #000;
+    padding: 35px;
+    /*padding:35 para cada um dos 4 lados
+    tamanho do postit: 277x185px*/
+    width: 207px;
+    /* 35+35=70 > 277-70=207 */
+    height: 115px;
+    /* 35+35=70 > 185-70=115 */
+    font-size: 1.3125em;
+    /*21/16=1.3125em */
+    letter-spacing: 0.07em;
+}
     
 
 
