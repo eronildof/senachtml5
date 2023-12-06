@@ -37,3 +37,11 @@ estilo de fundo (incorporado ou interno)
  Aprendemos sobre os diferentes tipos de seletores, a como deixar a tabela mais chamativa colocando cores molduras e bordas utilizando o css.
  Dar estilo a elementos de formulario como imagem de fundo, cor  bordas, botões.
  Dar continuidade na pagina 213.
+
+ dia 05/12/23
+
+ Aprendemos a usar a propriedade de flutuação, flutuação com mais de um elemento, flutuação de elementos de imagem.
+ propriedade Clear
+ propriedade overflow
+ a dar estilos a formularios complexos, entrada de texto de área, elementos de formúlarios de classe
+ Dar continuidade na página 223.
