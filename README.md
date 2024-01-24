@@ -45,3 +45,10 @@ estilo de fundo (incorporado ou interno)
  propriedade overflow
  a dar estilos a formularios complexos, entrada de texto de área, elementos de formúlarios de classe
  Dar continuidade na página 223.
+
+
+dia 23/01/24 
+parei na página 326
+
+aprendemo a posicionar elementos
+ajustar estruturas
