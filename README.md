@@ -48,7 +48,7 @@ estilo de fundo (incorporado ou interno)
 
 
 dia 23/01/24 
-parei na página 326
+parei na página 236
 
 aprendemo a posicionar elementos
 ajustar estruturas
