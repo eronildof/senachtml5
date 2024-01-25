@@ -52,3 +52,8 @@ parei na página 236
 
 aprendemo a posicionar elementos
 ajustar estruturas
+
+dia 24/24
+
+fizemos alhuns ajustamentos no site 
+fizemos alguns posicionamentos
