@@ -1,0 +1,39 @@
+#img{
+    border: 1px solid black;
+    width: 80px;
+    height: 650px;
+    background-image: url(../ex01/cabecalhos_back.png);
+}
+
+div{
+    float: left;
+}
+
+#corpo{
+    border: 1px solid black;
+    width: 800px;
+    height: 650px; 
+    background-color: rgb(229, 229, 147);
+}
+
+#corpo h1{
+    padding-left: 10px;
+}
+
+#corpo p{
+    padding-left: 10px;
+}
+
+#corpo h2{
+    padding-left: 10px;
+}
+
+#corpo h3{
+    padding-left: 10px;
+    background-color: rgb(255, 255, 0);
+}
+
+#corpo hr{
+    padding-left: 10px;
+}
+
