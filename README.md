@@ -57,3 +57,8 @@ dia 24/24
 
 fizemos alhuns ajustamentos no site 
 fizemos alguns posicionamentos
+
+
+dia 29/01/24
+
+foi feito alguns exercicios propostos
