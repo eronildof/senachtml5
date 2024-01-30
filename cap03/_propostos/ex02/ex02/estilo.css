@@ -1,0 +1,29 @@
+*{
+    background-color: #fcfcfc;
+}
+
+hr{
+    border: 1px solid black;
+}
+
+h1{
+    color: #764e36;
+}
+
+h2{
+   background-color: #764e36; 
+   color: white; 
+}
+
+
+#img1{
+    border: 2px solid black;
+    width: 650px;
+    text-align: center;
+}
+
+#img2{
+    border: 2px solid black;
+    width: 650px;
+    text-align: center;
+}

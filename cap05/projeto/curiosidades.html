@@ -12,9 +12,9 @@
 <script src="interacao/html5shiv.min.js"></script>
 <link href="estilos/principal.css" rel="stylesheet" type="text/css">
 <style>
-h2 {
+	main h2 {
 	background-color: #C0262C;
-	background-image: url(multimidia/importante-saber.jpg), url(multimidia/back-bolinha.gif);
+	background-image: url(multimidia/importante-saber.jpg),url(multimidia/back-bolinha.gif);
 	background-repeat: no-repeat, repeat;
 	background-position: center right, center center;
     width: 470px;
@@ -24,64 +24,6 @@ h2 {
 	letter-spacing: .1em;
 }
 
- figcaption {
- background-color:#C0262C; 
- padding: 7px 0;
- color: #FFFFFF; 
- font-size: 1.5em; 
-}
-
-figure { 
- border: #C0262C solid thin; 
- border-radius: 35px 35px 0 0; 
- padding: 20px 0 0; 
- text-align: center; 
-}
-
-ul li {
-	list-style-type: none;
-	list-style-image: url(multimidia/ossinho.png);
-list-style-position: inside;
-	margin: 30px 0;
-}
-
-dt {
-	color: #fff;
-	background-color: #C0262C;
-	padding: 7px;
-}
-dd {
-	border: thin #C0262C solid;
-	border-radius: 0 0 25px 25px;
-	margin-top: -3px;
-	margin-bottom: 30px;
-	padding: 20px 20px 0;
-}
-
-ol {
-	list-style-type: none;
-	white-space: pre;
-	line-height: .9em;
-	/* definir a variável de contagem */
-	counter-reset: contador;
-}
-ol li:before{
-	color: #999999;
-	/* incrementar a variável em 1 */
-	counter-increment: contador;
-	/* usar o número do contador como conteúdo */
-	content: "Questão " counter(contador) " \00BB  ";
-}
-
-ul li a {
-	text-decoration: none;
-	color: #C0262C;
-	font-weight: bold;
-	padding: 7px;
-}
-ul li a:hover {
-	text-decoration: underline;
-}
 
 dd a[target="_blank"] {
 	text-decoration: none;
@@ -103,6 +45,67 @@ dd a[href="#top"] {
 dd a[href="#top"]:hover {
 	text-decoration: underline;
 	background: url(multimidia/seta-voltar-hover.png) no-repeat left center;
+}
+figcaption {
+	background-color:#C0262C; 
+	padding: 7px 0;
+	color: #FFFFFF; 
+	font-size: 1.5em; 
+   }
+   
+   main figure { 
+	border: #C0262C solid thin; 
+	border-radius: 35px 35px 0 0; 
+	padding: 20px 0 0; 
+	text-align: center; 
+   }
+   /* }fdfdfdfdfdfdfdfdfdf */
+   
+   
+   dt {
+	   color: #fff;
+	   background-color: #C0262C;
+	   padding: 7px;
+   }
+   dd {
+	   border: thin #C0262C solid;
+	   border-radius: 0 0 25px 25px;
+	   margin-top: -3px;
+	   margin-bottom: 30px;
+	   padding: 20px 20px 0;
+   }
+   
+   ol {
+	   list-style-type: none;
+	   white-space: pre;
+	   line-height: .9em;
+	   /* definir a variável de contagem */
+	   counter-reset: contador;
+   }
+   ol li:before{
+	   color: #999999;
+	   /* incrementar a variável em 1 */
+	   counter-increment: contador;
+	   /* usar o número do contador como conteúdo */
+	   content: "Questão " counter(contador) " \00BB  ";
+   }
+
+
+ main  ul li {
+	list-style-type: none;
+	list-style-image: url(multimidia/ossinho.png);
+list-style-position: inside;
+	margin: 30px 0;
+}
+
+main ul li a {
+	text-decoration: none;
+	color: #C0262C;
+	font-weight: bold;
+	padding: 7px;
+}
+main ul li a:hover {
+	text-decoration: underline;
 }
 
 </style>

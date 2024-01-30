@@ -1,5 +1,5 @@
 #img{
-    border: 1px solid black;
+   
     width: 80px;
     height: 650px;
     background-image: url(../ex01/cabecalhos_back.png);
@@ -10,10 +10,10 @@ div{
 }
 
 #corpo{
-    border: 1px solid black;
+  
     width: 800px;
     height: 650px; 
-    background-color: rgb(229, 229, 147);
+    background-color: rgb(202, 202, 144);
 }
 
 #corpo h1{
@@ -30,7 +30,8 @@ div{
 
 #corpo h3{
     padding-left: 10px;
-    background-color: rgb(255, 255, 0);
+    background-color: rgb(197, 197, 40);
+    color: white;
 }
 
 #corpo hr{
