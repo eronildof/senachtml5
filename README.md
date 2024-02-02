@@ -62,3 +62,7 @@ fizemos alguns posicionamentos
 dia 29/01/24
 
 foi feito alguns exercicios propostos
+
+01/02/24
+
+modelamos um site com a estrutura base do site do senac mexemos com titulos subtitulos rodape
